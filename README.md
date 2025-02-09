@@ -32,4 +32,3 @@
 ### App Store
 앱스토어에서 **소리의 기록**을 검색해주세요. 
 (개발자 계정 비용 문제 임시 중단입니다. 🥲 업데이트 기능 진행 시작시 업데이트 후 앱스토어에서 다시 만나보실 수 있습니다!  - 2025.02.10 ~)
-<img src="https://github.com/cestbonciel/SoundLog/assets/46340978/283d5caa-29c4-4b52-aa52-2b154db1f4f9"  width="240" height="240"/>
